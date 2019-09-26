@@ -14,10 +14,10 @@ Those .py files are in that directory.
 
 Also of in the repository are these directories:
 
-    * CSCE_500_Comps_Scans
-	* Scanned copies of exams back to 2006
-    * CSCE_500_Fall_2017
-	* Dr. Tzeng's lecture slides	
+* CSCE_500_Comps_Scans
+    * Scanned copies of exams back to 2006
+* CSCE_500_Fall_2017
+    * Dr. Tzeng's lecture slides	
 
 The project is closed.  
 
@@ -26,11 +26,12 @@ and expand the contents to include later exams, more topics,
 more examples, more code... you have my blessing.  
 
 I studied for the exam by:
-    1.  Retyping the last seven exams.
-    1.  Making an index of the topics.
-    1.  Making study guides for each topic.
-    1.  Writing out solutions to questions on each topic.
-    1.  Sharing the file with classmates who pointed out mistakes.  
+
+1.  Retyping the last seven exams.
+1.  Making an index of the topics.
+1.  Making study guides for each topic.
+1.  Writing out solutions to questions on each topic.
+1.  Sharing the file with classmates who pointed out mistakes.  
 
 To edit in your own repostitory:
    1.  Learn LaTeX.
